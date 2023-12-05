@@ -18,7 +18,7 @@ Sweat Cycle is a web application that generates personalized fitness programs ba
 - **Next.js 13 App Router:** Sweat Cycle is built with Next.js 13, a popular React framework for building server-side rendered web applications.
 
 - **TailwindCSS:** Sweat Cycle uses TailwindCSS for styling, a utility-first CSS framework that provides a wide range of CSS classes for building responsive and modern web     interfaces.
-- **Shadowd/ui:** Sweat Cycle leverages Shadowd/ui for UI components, a highly customizable and extensible UI component library that integrates seamlessly with TailwindCSS.
+- **Shadcn/ui:** Sweat Cycle leverages Shadowd/ui for UI components, a highly customizable and extensible UI component library that integrates seamlessly with TailwindCSS.
 - **Prisma:** Sweat Cycle utilizes Prisma, an open-source ORM (Object Relational Mapper) that simplifies data fetching and manipulation in Next.js applications.
 - **Lottie:** Sweat Cycle employs Lottie for animations, an animation library that provides ready-to-use animations in JSON format.
 - **MongoDB:** Sweat Cycle stores user data and fitness program information in MongoDB, a NoSQL database that offers flexibility and scalability.
