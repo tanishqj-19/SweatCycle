@@ -2,6 +2,14 @@
 
 Sweat Cycle is a web application that generates personalized fitness programs based on your individual needs and goals. It provides a great user experience and people can share their personalized fitness program with others using the auto generated link.
 
+### Learning: 
+
+Throughout this project, I have acquired a comprehensive understanding of key web development concepts. I have developed proficiency in Next.js and Shadcn/ui, mastering the implementation of animated buttons for an enhanced user interface. Utilizing a robust web technology stack, I have gained insights into delivering an exceptional user experience.
+
+A noteworthy aspect of my learning journey involves becoming adept at using the Prisma ORM for website development, contributing to the efficiency and structure of the project. By seamlessly combining Next.js and Tailwind, I successfully mitigated application latency, ensuring a smoother and more responsive user experience. This optimization allows users to navigate the website effortlessly and encourages repeated usage.
+
+Moreover, I implemented a share feature within the application, enabling users to easily share their generated workouts with others. This addition not only enhances the social aspect of the platform but also promotes user engagement and interaction. Overall, the amalgamation of these skills and technologies has significantly contributed to the success and usability of the project.
+
 ### key Features:
 
 - **Simple and Beautiful UI:** Sweat Cycle has a clean and modern interface that is easy to use.
