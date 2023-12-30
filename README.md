@@ -1,6 +1,6 @@
 ## Sweat Cycle: Get Your Personalized Fitness Program 
 
-Sweat Cycle is a web application that generates personalized fitness programs based on your individual needs and goals.
+Sweat Cycle is a web application that generates personalized fitness programs based on your individual needs and goals. It provides a great user experience and people can share their personalized fitness program with others using the auto generated link.
 
 ### key Features:
 
