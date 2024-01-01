@@ -13,7 +13,6 @@ Moreover, I implemented a share feature within the application, enabling users t
 ### key Features:
 
 - **Simple and Beautiful UI:** Sweat Cycle has a clean and modern interface that is easy to use.
-
 - **Shareable Programs:** You can share your generated program with others by providing them with a unique link.
 - **Workout and Diet Recommendations:** Sweat Cycle provides personalized workout and diet recommendations based on your body type, fitness level, and goals.
 - **Physique Assessment:** Sweat Cycle helps you understand your physique by calculating your body fat percentage, BMI, and other key metrics.
