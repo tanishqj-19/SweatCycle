@@ -24,7 +24,7 @@ export default function CopyLink({ params }: { params: any }) {
   }, [is_copied])
 
   const copy = () => {
-    navigator.clipboard.writeText(`https://bestshape.fit/program/${params.slug}`)
+    navigator.clipboard.writeText(`https://sweat-cycle-tanishqj-19s-projects.vercel.app/program/${params.slug}`)
     setIsCopied(true)
   }
 
